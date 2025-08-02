@@ -1,0 +1,26 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1754100989
+README.md::TextFile::-1::1754100795::0::1::::<><><>0<>0<><>::
+::res://art/::1754100795
+icon.svg::CompressedTexture2D::1781624067466126180::1754100795::1754100989::1::::<><><>0<>0<>695216d575b1673ba4d724e2db9d7a91<>res://.godot/imported/icon.svg-2ffe2e9772a318535303737ea3c29287.ctex::
+player.png::CompressedTexture2D::6409834506836505361::1754100795::1754100989::1::::<><><>0<>0<>8d2ec98d47cfc5f6677c8d2c63c3e567<>res://.godot/imported/player.png-99d195b4b10a03b7e1088962b50c29f4.ctex::
+::res://art/desert_tiles/::1754100795
+concord_ruins.png::CompressedTexture2D::2482052730042677114::1754100795::1754100989::1::::<><><>0<>0<>21c2bead3e87da7d6eb74c9443e88e9e<>res://.godot/imported/concord_ruins.png-0b3d461f68f04ff621f29e17d1b9ce36.ctex::
+desert.png::CompressedTexture2D::1193818388954971807::1754100795::1754100989::1::::<><><>0<>0<>014d0ba51774e7b13ca001384a80741a<>res://.godot/imported/desert.png-b258c9bc0ebcda57d76814fed2ae614d.ctex::
+desert_cliffs.png::CompressedTexture2D::1305834126081501480::1754100795::1754100989::1::::<><><>0<>0<>9514e89de8e428f06202b8a0a3529d5b<>res://.godot/imported/desert_cliffs.png-d7ea23daba581b7379bce854c7c2dc60.ctex::
+tiles.png::CompressedTexture2D::3355034469711025744::1754100795::1754100989::1::::<><><>0<>0<>0843cbcab5ad92bc082736d30ab5835f<>res://.godot/imported/tiles.png-302214e63bcf668ac4051c32a3c67fba.ctex::
+::res://art/desert_tiles/desert_decor/::1754100795
+cacti.png::CompressedTexture2D::2527904009296524896::1754100795::1754100989::1::::<><><>0<>0<>757cf8ecca63979f234e42d794e2ff04<>res://.godot/imported/cacti.png-f8f55db88431f849fa4d8a635052f346.ctex::
+::res://art/Riven powers/::1754100795
+arc_laser.png::CompressedTexture2D::371258454066236306::1754100795::1754100989::1::::<><><>0<>0<>403c4600cb77858beceaad48c10bff11<>res://.godot/imported/arc_laser.png-42623cee8c69077d455b74dca3fc6b51.ctex::
+ion_spark.png::CompressedTexture2D::7140636636716684306::1754100795::1754100989::1::::<><><>0<>0<>ba9bef493a1edb8f2532238790496131<>res://.godot/imported/ion_spark.png-b6cc9d0cbc3bf307e6c5e8e124debb0b.ctex::
+nova_ray.png::CompressedTexture2D::4498001994376033887::1754100795::1754100989::1::::<><><>0<>0<>5bab70308872920323d72988ab5cc722<>res://.godot/imported/nova_ray.png-6903a902852163bd8bb5701c392de4bc.ctex::
+shock_orb.png::CompressedTexture2D::7118987786152146999::1754100795::1754100989::1::::<><><>0<>0<>8080ac072d6bb2a35f1fe7e835a7b957<>res://.godot/imported/shock_orb.png-9edbec040de0172da1459d767c03feff.ctex::
+::res://scenes/::1754100795
+main.gd::GDScript::3428345463008519874::1754100795::0::1::::<>Node2D<><>0<>0<><>::
+player.tscn::PackedScene::6026427491953487577::1754100795::0::1::::<><><>0<>0<><>::uid://fh3xrcnb2mi3::::res://scripts/player.gd<>uid://cxk8bj0hxsij6::::res://art/player.png
+ruins.tscn::PackedScene::369519625550321118::1754100795::0::1::::<><><>0<>0<><>::
+world.tscn::PackedScene::1091976097210793562::1754100795::0::1::::<><><>0<>0<><>::uid://bn2g6siandjrc::::res://art/desert_tiles/tiles.png<>uid://rakaqx3dlq52::::res://art/desert_tiles/desert.png<>uid://bcasheod7mv7m::::res://art/desert_tiles/desert_decor/cacti.png<>uid://sus5rimvcv41::::res://art/desert_tiles/desert_cliffs.png<>uid://cr4im6wd3synp::::res://scenes/player.tscn<>uid://bbmlbs8mdkm5o::::res://art/desert_tiles/concord_ruins.png
+::res://scripts/::1754100795
+global.gd::GDScript::6243725151882598304::1754100795::0::1::::<>Node<><>0<>0<><>::
+player.gd::GDScript::367136908105487460::1754100795::0::1::::<>CharacterBody2D<><>0<>0<><>::

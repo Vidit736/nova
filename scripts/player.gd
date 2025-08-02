@@ -7,9 +7,9 @@ func _ready():
 	$AnimatedSprite2D.play("front_idle")
 
 func _physics_process(delta):
-	player_movement()
+	player_movement(delta)
 	
-func player_movement():
+func player_movement(delta):
 	
 	if Input.is_action_pressed("ui_right"):
 		current_dir = "right"
